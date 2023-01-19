@@ -1,0 +1,1 @@
+# Implementing-Image-Recognition-for-Forest-Fire-Detections
